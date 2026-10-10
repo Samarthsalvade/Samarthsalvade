@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
+  <rect width="1200" height="420" fill="#10110e"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#d6e35a"/>
+  <g opacity="0.9">
+    <rect x="860" y="64" width="72" height="72" fill="#d6e35a"/>
+    <rect x="948" y="64" width="72" height="72" fill="#1c1d18"/>
+    <rect x="1036" y="64" width="72" height="72" fill="#d6e35a"/>
+    <rect x="860" y="152" width="72" height="72" fill="#1c1d18"/>
+    <rect x="948" y="152" width="72" height="72" fill="#d6e35a"/>
+    <rect x="1036" y="152" width="72" height="72" fill="#1c1d18"/>
+    <rect x="860" y="240" width="72" height="72" fill="#d6e35a"/>
+    <rect x="948" y="240" width="72" height="72" fill="#1c1d18"/>
+    <rect x="1036" y="240" width="72" height="72" fill="#d6e35a"/>
+  </g>
+  <text x="56" y="92" fill="#9c978c" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3.2">SAMARTHSALVADE</text>
+  <text x="56" y="176" fill="#f4f1e8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">Samarth</text>
+  <text x="56" y="248" fill="#f4f1e8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">Gupta</text>
+  <text x="56" y="304" fill="#b7b2a6" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Full-stack products. Gyms, skin analysis, and camera interfaces.</text>
+  <line x1="56" y1="348" x2="420" y2="348" stroke="#2c2b26"/>
+  <text x="56" y="382" fill="#d6e35a" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14">TypeScript</text>
+  <text x="168" y="382" fill="#6f6b62" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14">React</text>
+  <text x="240" y="382" fill="#6f6b62" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Node</text>
+  <text x="304" y="382" fill="#6f6b62" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Python</text>
+  <text x="388" y="382" fill="#6f6b62" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14">FastAPI</text>
+</svg>
